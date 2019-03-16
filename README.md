@@ -1,4 +1,4 @@
-#Sine Wave Sound Generator in Java
+# Sine Wave Sound Generator in Java
 ## Project overview
   
 ## Motivation
